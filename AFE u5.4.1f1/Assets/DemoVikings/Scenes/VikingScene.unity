@@ -602,10 +602,11 @@ MonoBehaviour:
   trafficStatsOn: 0
   buttonsOn: 1
   statsRect:
+    serializedVersion: 2
     x: 0
     y: 0
-    width: 200
-    height: 50
+    width: 0
+    height: 0
   WindowId: 100
 --- !u!114 &39
 MonoBehaviour:
@@ -619,10 +620,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WindowRect:
+    serializedVersion: 2
     x: 0
-    y: 100
-    width: 120
-    height: 100
+    y: 0
+    width: 0
+    height: 0
   WindowId: 101
   Visible: 1
 --- !u!114 &40
@@ -649,16 +651,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ownerId: 0
   group: 0
+  OwnerShipWasTransfered: 0
   prefixBackup: -1
-  observed: {fileID: 0}
   synchronization: 0
   onSerializeTransformOption: 3
   onSerializeRigidBodyOption: 2
   ownershipTransfer: 0
-  ObservedComponents: []
+  ObservedComponents:
+  - {fileID: 0}
   ObservedComponentsFoldoutOpen: 1
   viewIdField: 1
   instantiationId: 1
+  currentMasterID: -1
   isRuntimeInstantiated: 0
 --- !u!114 &42
 MonoBehaviour:
@@ -671,7 +675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1aa6d93d1e7dfa04c98a362c95014ff8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerPrefabName: 43686172707265666162
+  playerPrefabName: Charprefab
 --- !u!114 &43
 MonoBehaviour:
   m_ObjectHideFlags: 0
