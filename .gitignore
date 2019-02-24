@@ -19,6 +19,13 @@ AR Templates/[Bb]uild/
 AR Templates/[Bb]uilds/
 AR Templates/Assets/AssetStoreTools*
 
+Nuitrack AR Football Game/Nuitrack AR Football Game/Library/
+Nuitrack AR Football Game/Nuitrack AR Football Game/[Tt]emp/
+Nuitrack AR Football Game/Nuitrack AR Football Game/[Oo]bj/
+Nuitrack AR Football Game/Nuitrack AR Football Game/[Bb]uild/
+Nuitrack AR Football Game/Nuitrack AR Football Game/[Bb]uilds/
+Nuitrack AR Football Game/Nuitrack AR Football Game/Assets/AssetStoreTools*
+
 # Visual Studio cache directory
 .vs/
 .vscode/
