@@ -10,8 +10,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: NewGame4U
-  productName: WebFighters
+  companyName: Beetsoft
+  productName: AFE
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenStyle: 0
@@ -181,7 +181,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: df4991437a1cb594ebe49da8b9545d64, type: 3}
+      m_Icon: {fileID: 2800000, guid: 4d08f15fa19c6b640b6f5658375d56a8, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []
