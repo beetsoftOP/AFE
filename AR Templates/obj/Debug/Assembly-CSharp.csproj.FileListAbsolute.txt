@@ -1,2 +1,0 @@
-/Users/beetsoft_unity/Documents/UnityOwnProduct/AR Templates/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-/Users/beetsoft_unity/Documents/UnityOwnProduct/AR Templates/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
