@@ -58,7 +58,7 @@ public class StoryModeVideoScreen : StoryModeScreen {
 		
 		
 		WWW www = new WWW(url);
-		MovieTexture movie = www.movie;
+		MovieTexture movie = www.GetMovieTexture();
 		
 		// Assign the movie to a GUITexture...
 		GUITexture guiTexture = this.GetComponent<GUITexture>();

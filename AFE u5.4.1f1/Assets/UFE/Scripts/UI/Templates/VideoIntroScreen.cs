@@ -88,7 +88,7 @@ public class VideoIntroScreen : IntroScreen{
         while (www.progress < .01f) {
             yield return null;
         }
-        movieTexture = www.movie;
+        movieTexture = www.GetMovieTexture();
 
         // Assign the movie to a GUITexture...
         GUITexture guiTexture = this.GetComponent<GUITexture>();
